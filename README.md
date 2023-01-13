@@ -18,7 +18,7 @@ Working with Realty data will not always be completely familiar - from time to t
 ### The task: 
 Your task is to define the parameters. This will make it possible to create an automated system that is capable of detecting anomalies and fraud. There are two different types of data available for every apartment for sale. The first type is users\' input. The second type is received automatically based upon the map data. This could be calculated, for example, based upon the distance from the downtown area, airport, the nearest park or body of water.
 
-## Sprint #4 - Statistical data analysis
+## Sprint #4: Statistical Data Analysis
 
 You work as an analyst for "Megaline", a state mobile operator. The company offers its clients two prepaid plans, Surf and Ultimate. The commercial department would like to know which of the plans is more profitable in order to adjust the advertising budget. 
 
@@ -30,30 +30,30 @@ Carry out a preliminary analysis of the plans based on a relatively small client
 You work for the online store Ice, which sells video games all over the world. User and expert reviews, genres, platforms (e.g. Xbox or PlayStation), and historical data on game sales are available from open sources. 
 
 ### The task: 
-Identify patterns that determine whether a game succeeds or not. This allows you to put your money on a potentially hot new item and plan advertising campaigns. In front of you is data going back to 2016. Let\'s imagine that it\'s December 2016 and you a€™re planning a campaign for 2017. The important thing is to get experience working with data. It doesn\'t really matter whether you\'€™re forecasting 2017 sales based on data from 2016 or 2027 sales based on data from 2026. The data set contains the abbreviation ESRB (Entertainment Software Rating Board). The ESRB evaluates a game's content and assigns an appropriate age categories, such as Teen and Mature.
+Identify patterns that determine whether a game succeeds or not. This allows you to put your money on a potentially hot new item and plan advertising campaigns. In front of you is data going back to 2016. Let\'s imagine that it\'s December 2016 and you are planning a campaign for 2017. The important thing is to get experience working with data. It doesn\'t really matter whether you\'re forecasting 2017 sales based on data from 2016 or 2027 sales based on data from 2026. The data set contains the abbreviation ESRB (Entertainment Software Rating Board). The ESRB evaluates a game's content and assigns an appropriate age categories, such as Teen and Mature.
 
-## Sprint #5 - Data Collection and Storage (SQL)
+## Sprint #5: Data Collection and Storage (SQL)
 
 You're working as an analyst for Zuber, a new ride-sharing company that's launching in Chicago. 
 
 ### The task: 
-Your task is to find patterns in the available information. You want to understand passenger preferences and the impact of external factors on rides. You\'€™ll study a database, analyze data from competitors, and test a hypothesis about the impact of weather on ride frequency.
+Your task is to find patterns in the available information. You want to understand passenger preferences and the impact of external factors on rides. You\'ll study a database, analyze data from competitors, and test a hypothesis about the impact of weather on ride frequency.
 
-## Sprint #6 - Introduction to machine learning
+## Sprint #6: Introduction to Machine Learning
 
 Mobile carrier Megaline has found out that many of their subscribers use legacy plans. They want to develop a model that would analyze subscribers' behavior and recommend one of Megaline's newer plans: Smart or Ultra. You have access to behavior data about subscribers who have already switched to the new plans (from the project for the Statistical Data Analysis course). For this classification task, you need to develop a model that will pick the right plan. Since you\'ve already performed the data preprocessing step, you can move straight to creating the model. 
 
 ### The task: 
 Develop a model with the highest possible accuracy. In this project, the threshold for accuracy is 0.75. Check the accuracy using the test dataset.
 
-## Sprint #7 - Supervised learning
+## Sprint #7: Supervised Learning
 
 Beta Bank customers are leaving: little by little, chipping away every month. The bankers figured out it\'s cheaper to save the existing customers rather than to attract new ones. We need to predict whether a customer will leave the bank soon. You have the data on clients\' past behavior and termination of contracts with the bank. 
 
 ### The task: 
 Build a model with the maximum possible F1 score. To pass the project, you need an F1 score of at least 0.59. Check the F1 for the test set. Additionally, measure the AUC-ROC metric and compare it with the F1.
 
-## Sprint #8 - Machine Learning for Business
+## Sprint #8: Machine Learning for Business
 
 You work for the OilyGiant mining company. Your task is to find the best place for a new well. 
 Steps to choose the location: 
@@ -77,7 +77,7 @@ Prepare a model to predict the amount of gold recovered from gold ore. You have 
 - Perform data analysis;
 - Develop and train a model;
 
-## Sprint #9 - Linear Algebra
+## Sprint #9: Linear Algebra
 
 The Sure Tomorrow insurance company wants to protect its clients\' data. 
 
@@ -88,7 +88,7 @@ Develop a data transforming algorithm that would make it hard to recover persona
 - formulate an algorithm for this proof;
 - check that the algorithm is working correctly when applied to real data.
 
-## Sprint #10 - Numerical Methods
+## Sprint #10: Numerical Methods
 
 Rusty Bargain used car sales service is developing an app to attract new customers. In that app, you can quickly find out the market value of your car. You have access to historical data: technical specifications, trim versions, and prices. 
 
@@ -99,21 +99,21 @@ Build a model to determine the value of the cars. Rusty Bargain is interested in
 - the speed of the prediction
 - the time required for training
 
-## Sprint #11 - Time Series
+## Sprint #11: Time Series
 
 Sweet Lift Taxi company has collected historical data on taxi orders at airports. To attract more drivers during peak hours, we need to predict the amount of taxi orders for the next hour. 
 
 ### The task: 
 Build a model for such a prediction. The RMSE metric on the test set should not be more than 48.
 
-## Sprint #12 - Machine Learning for Texts
+## Sprint #12: Machine Learning for Texts
 
 The Film Junky Union, a new edgy community for classic movie enthusiasts, is developing a system for filtering and categorizing movie reviews. The goal is to train a model to automatically detect negative reviews. 
 
 ### The task: 
 Use the IMBD movie reviews with polarity labelling to build a model for classifying positive and negative reviews. It will need to reach an F1 score of at least 0.85.
 
-## Sprint #13 - Computer Vision
+## Sprint #13: Computer Vision
 
 Supermarket chain Good Seed is introducing a computer vision system for processing customer photos. Photofixation in the checkout area will help determine the age of customers in order to: 
 
@@ -123,7 +123,7 @@ Supermarket chain Good Seed is introducing a computer vision system for processi
 ### The task: 
 Build a model that will determine the approximate age of a person from a photograph. To help, you'll have a set of photographs of people with their ages indicated.
 
-## Sprint 14# - Unsupervised Learning: No project
+## Sprint 14#: Unsupervised Learning: No project
 
 # Integrated project 3
 
