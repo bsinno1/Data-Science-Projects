@@ -2,21 +2,21 @@
 Sample project portfolio
 
 
-Sprint #1 - Introduction to Data Science
+## Sprint #1 - Introduction to Data Science
 
 Python and Data Analysis Basics. 
 
-Sprint #2 - Data Preprocessing
+## Sprint #2 - Data Preprocessing
 
-Task: Prepare a report for a bank’s loan division. You’ll need to find out if a customer’s marital status and number of children has an impact on whether they will default on a loan. The bank already has some data on customers’ credit worthiness. Your report will be considered when building a credit scoring of a potential customer. A credit scoring is used to evaluate the ability of a potential borrower to repay their loan.
+Task: Prepare a report for a bank’s loan division. You\'ll need to find out if a customer’s marital status and number of children has an impact on whether they will default on a loan. The bank already has some data on customers\'s�� credit worthiness. Your report will be considered when building a credit scoring of a potential customer. A credit scoring is used to evaluate the ability of a potential borrower to repay their loan.
 
-Sprint #3 - Exploratory Data Analysis (EDA)
+## Sprint #3 - Exploratory Data Analysis (EDA)
 
-You’ll have the data from Yandex.Realty provided for you. Working with data will not always be completely familiar - from time to time, you'll encounter data from peculiar sources, operating with peculiar measurements. Let's work with something exotic to keep you on your toes: a real estate agency has an archive of sales ads for realty in St. Petersburg, Russia, and the surrounding areas collected over the past few years. You’ll need to learn how to determine the market value of real estate properties. 
+Working with Realty data will not always be completely familiar - from time to time, you'll encounter data from peculiar sources, operating with peculiar measurements. Let's work with something exotic to keep you on your toes: a real estate agency has an archive of sales ads for realty in St. Petersburg, Russia, and the surrounding areas collected over the past few years. ��You need to learn how to determine the market value of real estate properties. 
 
 Task: Your task is to define the parameters. This will make it possible to create an automated system that is capable of detecting anomalies and fraud. There are two different types of data available for every apartment for sale. The first type is a user’s input. The second type is received automatically based upon the map data. This could be calculated, for example, based upon the distance from the downtown area, airport, the nearest park or body of water.
 
-Sprint #4 - Statistical data analysis
+## Sprint #4 - Statistical data analysis
 
 You work as an analyst for "Megaline", a state mobile operator. The company offers its clients two prepaid plans, Surf and Ultimate. The commercial department would like to know which of the plans is more profitable in order to adjust the advertising budget. 
 
