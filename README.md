@@ -53,7 +53,7 @@ Beta Bank customers are leaving: little by little, chipping away every month. Th
 ### The task: 
 Build a model with the maximum possible F1 score. To pass the project, you need an F1 score of at least 0.59. Check the F1 for the test set. Additionally, measure the AUC-ROC metric and compare it with the F1.
 
-## Sprint #8: [Machine Learning for Business](https://github.com/bsinno1/Data-Science-Projects/tree/main/project_8)
+## Sprint #9: [Machine Learning for Business](https://github.com/bsinno1/Data-Science-Projects/tree/main/project_8)
 
 You work for the OilyGiant mining company. Your task is to find the best place for a new well. 
 Steps to choose the location: 
