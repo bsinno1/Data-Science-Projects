@@ -1,5 +1,5 @@
-# Data Science Projects
-Sample project portfolio
+# Data Science Project Portfolio
+
 
 
 ## Sprint #1: Introduction to Data Science
