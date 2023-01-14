@@ -84,20 +84,20 @@ The Sure Tomorrow insurance company wants to protect its clients\' data.
 ### The task: 
 Develop a data transforming algorithm that would make it hard to recover personal information from the transformed data. This is called data masking, or data obfuscation. You are also expected to prove that the algorithm works correctly. Additionally, the data should be protected in such a way that the quality of machine learning models doesn't suffer. You don't need to pick the best model. Follow these steps to develop a new algorithm:
 
-- construct a theoretical proof using properties of models and the given task;
-- formulate an algorithm for this proof;
-- check that the algorithm is working correctly when applied to real data.
+- Construct a theoretical proof using properties of models and the given task;
+- Formulate an algorithm for this proof;
+- Check that the algorithm is working correctly when applied to real data.
 
 ## Sprint #10: Numerical Methods
 
 Rusty Bargain used car sales service is developing an app to attract new customers. In that app, you can quickly find out the market value of your car. You have access to historical data: technical specifications, trim versions, and prices. 
 
 ### The task: 
-Build a model to determine the value of the cars. Rusty Bargain is interested in:
+Build a model to determine the value of the cars. Rusty Bargain is interested in the:
 
-- the quality of the prediction
-- the speed of the prediction
-- the time required for training
+- Quality of the prediction
+- Speed of the prediction
+- Time required for training
 
 ## Sprint #11: Time Series
 
